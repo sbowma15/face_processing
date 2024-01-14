@@ -1,4 +1,5 @@
 Face Processing Python Program
+
 Overview
 This Python program, named "face_processing.py," is designed for processing facial images using computer vision techniques. The code includes functionalities such as gamma correction, skin color thresholding, and finding local minima in the luminance histogram. The program operates on image files in the BMP format and utilizes the OpenCV library for image processing.
 
